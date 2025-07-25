@@ -1,0 +1,2 @@
+This is my file
+Trhis file is under the gitbashPractice
